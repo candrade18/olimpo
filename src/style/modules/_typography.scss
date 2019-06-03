@@ -1,0 +1,48 @@
+a,
+.link {
+    color: #fff;
+    font-size: 14px;
+}
+
+p,
+._f-14 {
+    color: $color-1;
+    font-size: 14px;
+    line-height: 20px;
+    font-family: $font-1;
+}
+
+h4,
+._f-15 {
+    font-size: 15px;
+    font-family: $font-1;
+}
+
+h3,
+._f-22 {
+    font-size: 22px;
+    font-family: $font-1;
+    letter-spacing: -1px;
+}
+
+h2,
+._f-25 {
+    font-size: 25px;
+    font-family: $font-1;
+    letter-spacing: -0.7px
+}
+
+h1,
+._f-45 {
+    font-size: 45px;
+    font-family: $font-1;
+}
+
+///////////////
+._light {
+    font-weight: lighter;
+}
+
+._strong {
+    font-weight: 900
+}
